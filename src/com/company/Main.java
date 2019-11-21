@@ -3,10 +3,6 @@ import java.util.Scanner;
 class Main {
 
   public static void main(String[] args) {
-    Enemy bob = new Enemy();
-    bob.name = "Bob";
-    bob.health = 100;
-    bob.strength = 10;
     String gender = "place";
     String lastName = "place";
     String firstName = "place";
